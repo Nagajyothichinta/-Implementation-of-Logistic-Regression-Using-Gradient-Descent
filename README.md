@@ -28,7 +28,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Nagajyothi.ch
 RegisterNumber: 212221230015 
 */
-```
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd  
@@ -81,7 +81,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.legend()
   plt.show()
 
-
+```
 ## Output:
 ![output](./q1.png)
 
